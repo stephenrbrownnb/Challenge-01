@@ -1,3 +1,4 @@
+/* Style for whole page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -92,7 +93,7 @@ p {
     background-color: #2589bd;
 }
 
-/* these three could be merged for simplicity but lose of unique */
+/* Styles for the Benefits */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -108,7 +109,7 @@ p {
     color: #ffffff;
 }
 
-/* these three also could be merged. */ 
+
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -124,7 +125,7 @@ p {
     text-align: center;
 }
 
-/* and these three could be merged */
+
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -143,7 +144,7 @@ p {
     max-width: 150px;
 }
 
-/* could be merged */ 
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -170,7 +171,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* could be merged */
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -182,7 +183,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-/* could be merged */
+
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
