@@ -8,8 +8,8 @@ several classes were using the same rules. Added alt code allowing it to be more
 
 
 ## Usage
-
-Site can be navigated using the three links at the top right of the page. 
+Site can be found at http://stephenrbrownnb.github.io/Challenge-01/
+Site can be navigated using the three links at the top right of the page.  
 
 ![screenshot](assets/images/screenshot.jpg)
 
